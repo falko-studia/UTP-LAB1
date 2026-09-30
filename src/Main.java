@@ -1,5 +1,5 @@
 // dodaj swoja ske
-// dovrze dodam komentarz
+// dobrze dodam komentarz
 
 public class Main {
     public class Main {
